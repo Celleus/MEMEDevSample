@@ -1,4 +1,7 @@
 # MEMEDevSample
+JINS MEMEがなくてもJINS MEMEのアプリ開発ができるMEMEDev.Frameworkです。
+
+MEMEDev.Frameworkの作りは簡単で、単にcsvのデータを読み込み実際のJINS MEME SDKと同様の形で出力しているだけです
 
 ## install
 1.MEMEDevSamle > MEMEDevSDK1.0 > develop > MEMEDev.frameworkをプロジェクトに追加する
