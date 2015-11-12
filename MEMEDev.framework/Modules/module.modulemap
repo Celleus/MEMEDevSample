@@ -1,0 +1,6 @@
+framework module MEMEDev {
+  umbrella header "MEMEDev.h"
+
+  export *
+  module * { export * }
+}
